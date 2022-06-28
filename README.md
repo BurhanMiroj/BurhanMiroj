@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burhanudin Mi'roj</h1>
 <h3 align="center">Junior Fullstack Web Developer</h3>
 
-- 🌱 I’m currently learning **Laravel, NodeJS**
+- 🌱 I’m currently learning **Laravel & NodeJS**
 
 - 📫 How to reach me **han@cloudmediaweb.com**
 
