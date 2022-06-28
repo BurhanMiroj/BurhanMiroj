@@ -45,7 +45,7 @@
     </a>
 </p>
 
-<h3 align="left">Deployment tools :</h3>
+<h3 align="left">Backend as a Service :</h3>
 
 <p align="left">
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
@@ -53,6 +53,9 @@
     </a> 
     <a href="https://heroku.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+    </a> 
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a> 
 </p>
 
